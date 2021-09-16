@@ -48,5 +48,6 @@
       "pattern": "**/*.stories.tsx",
       "outputFile": "./storybook/storyLoader.tsx"
     }
-  }
+  },
+  "version": "0.1.0"
 }
